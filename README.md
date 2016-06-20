@@ -1,4 +1,3 @@
-# tmp.txt
 ファイル詳細
 Makefile        コンパイルコマンド詳細
 code.cc         実装コード
